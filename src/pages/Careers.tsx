@@ -1,8 +1,8 @@
 import { motion } from "framer-motion";
 
-import { Briefcase, MapPin, Clock, Send } from "lucide-react";
+import { Briefcase, MapPin, Clock,  } from "lucide-react";
 import { PageLayout } from "../components/PageLayout";
-import { Button } from "../components/ui/button";
+//import { Button } from "../components/ui/button";
 
 
 const openings = [

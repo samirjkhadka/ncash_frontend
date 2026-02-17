@@ -7,7 +7,7 @@ import {
   Instagram,
   Linkedin,
   Mail,
-  Phone,
+  
   MapPin,
 } from "lucide-react";
 
