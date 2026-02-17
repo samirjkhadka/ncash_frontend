@@ -4,8 +4,7 @@ import {
   Smartphone,
   Shield,
   Zap,
-  CreditCard,
-  Receipt,
+
   CheckCircle2,
   ArrowUpRight,
   Wifi,

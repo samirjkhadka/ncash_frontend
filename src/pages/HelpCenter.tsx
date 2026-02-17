@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
 import { PageLayout } from "../components/PageLayout";
-import { Search, BookOpen, MessageCircle, Phone, Mail } from "lucide-react";
+import { Search, MessageCircle, Phone, Mail } from "lucide-react";
 import { Input } from "../components/ui/input";
 
 

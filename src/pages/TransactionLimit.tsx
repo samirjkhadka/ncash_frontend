@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
 
-import { AlertTriangle, Shield, Star, Crown } from "lucide-react";
+import { AlertTriangle, Shield, Star } from "lucide-react";
 import { PageLayout } from "../components/PageLayout";
 
 const tiers = [
