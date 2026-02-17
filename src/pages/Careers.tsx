@@ -109,9 +109,9 @@ export default function Careers() {
                   </div>
                   <p className="text-muted-foreground mt-2">{job.description}</p>
                 </div>
-                <Button className="ncash-gradient-bg shrink-0">
+                {/* <Button className="ncash-gradient-bg shrink-0">
                   <Send className="w-4 h-4 mr-2" /> Apply
-                </Button>
+                </Button> */}
               </div>
             </motion.div>
           ))}

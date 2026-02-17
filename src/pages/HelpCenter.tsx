@@ -110,13 +110,13 @@ export default function HelpCenter() {
             </div>
             <div className="text-center p-4">
               <Phone className="w-8 h-8 text-ncash-bright mx-auto mb-3" />
-              <h4 className="font-semibold mb-1">Call Us</h4>
-              <p className="text-sm text-muted-foreground">+977 1-4444-XXX</p>
+              {/* <h4 className="font-semibold mb-1">Call Us</h4>
+              <p className="text-sm text-muted-foreground">+977 1-4444-XXX</p> */}
             </div>
             <div className="text-center p-4">
               <Mail className="w-8 h-8 text-ncash-bright mx-auto mb-3" />
               <h4 className="font-semibold mb-1">Email</h4>
-              <p className="text-sm text-muted-foreground">support@ncash.com.np</p>
+              <p className="text-sm text-muted-foreground">support@himalpay.com.np</p>
             </div>
           </div>
         </motion.div>

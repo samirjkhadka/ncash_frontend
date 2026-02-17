@@ -38,9 +38,9 @@ Services are subject to availability and may be modified at any time.`,
   {
     title: "5. Transaction Limits",
     content: `Transaction limits apply based on your verification level:
-    • Basic: NPR 50,000 per month
+    
     • Verified: NPR 200,000 per month
-    • Premium: NPR 500,000 per month
+    • Verified: NPR 500,000 per month
     
 See our Transaction Limits page for detailed information.`,
   },

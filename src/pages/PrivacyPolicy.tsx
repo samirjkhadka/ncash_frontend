@@ -51,7 +51,6 @@ const sections = [
     title: "Data Retention",
     content: `We retain your data for:
     • Active accounts: As long as your account is active
-    • Transaction records: 10 years (regulatory requirement)
     • Closed accounts: Data deleted after legal retention period
     • Marketing preferences: Until you opt out`,
   },
@@ -102,7 +101,7 @@ export default function PrivacyPolicy() {
           viewport={{ once: true }}
           className="mt-8 text-center text-muted-foreground text-sm"
         >
-          For questions about this policy, contact us at privacy@ncash.com.np
+          For questions about this policy, contact us at info@himalpay.com.np
         </motion.div>
       </div>
     </PageLayout>

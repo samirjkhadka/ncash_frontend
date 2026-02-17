@@ -14,22 +14,22 @@ import {
 const footerLinks = {
   company: [
     { name: "About Us", href: "/about" },
-    { name: "Careers", href: "/careers" },
-    { name: "Press", href: "/press" },
-    { name: "Blog", href: "/blog" },
+   // { name: "Careers", href: "/careers" },
+   // { name: "Press", href: "/press" },
+   // { name: "Blog", href: "/blog" },
   ],
   support: [
     { name: "Help Center", href: "/help" },
     { name: "Contact Us", href: "/contact" },
     { name: "FAQs", href: "/#faq" },
-    { name: "Agent Locator", href: "/agents" },
+   // { name: "Agent Locator", href: "/agents" },
     { name: "NRB Gunaso Portal", href: "https://gunaso.nrb.org.np/" , target: "_blank"},
   ],
   legal: [
     { name: "Privacy Policy", href: "/privacy" },
     { name: "Terms of Service", href: "/terms" },
     { name: "Refund Policy", href: "/refund" },
-    { name: "Compliance", href: "/compliance" },
+   // { name: "Compliance", href: "/compliance" },
   ],
   pricing: [
     { name: "Transaction Limits", href: "/limits" },
@@ -75,10 +75,10 @@ export function Footer() {
                 <Mail className="w-4 h-4" />
                 <span>support@himalpay.com.np</span>
               </div>
-              <div className="flex items-center gap-3 text-muted-foreground">
+              {/* <div className="flex items-center gap-3 text-muted-foreground">
                 <Phone className="w-4 h-4" />
                 <span>+977 1-XXX-XXX</span>
-              </div>
+              </div> */}
               <div className="flex items-center gap-3 text-muted-foreground">
                 <MapPin className="w-4 h-4" />
                 <span>Durbarmarg, Kathmandu, Nepal</span>

@@ -16,17 +16,17 @@ const contactInfo = [
   {
     icon: Phone,
     title: "Phone",
-    details: ["+977 1-4444-XXX", "+977 9801-XXX-XXX"],
+    details: [],
   },
   {
     icon: Mail,
     title: "Email",
-    details: ["support@ncash.com.np", "info@ncash.com.np"],
+    details: ["support@ncash.com.np", "info@himalpay.com.np"],
   },
   {
     icon: Clock,
     title: "Business Hours",
-    details: ["Sun-Fri: 9:00 AM - 6:00 PM", "Saturday: Closed"],
+    details: ["Sun-Fri: 10:00 AM - 6:00 PM", "Saturday: Closed"],
   },
 ];
 
